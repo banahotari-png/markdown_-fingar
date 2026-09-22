@@ -2,5 +2,4 @@
 Æfingar í markdown
 
 bana 
-
 Tskoli
